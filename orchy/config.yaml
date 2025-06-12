@@ -1,9 +1,9 @@
 ---
-name: evcc (nightly)
-version: nightly.20250611-98e6296
-slug: evcc-nightly
-description: Nightly version of EV Charge Controller!
-url: https://github.com/evcc-io/evcc
+name: orchy-evcc
+version: 0.204.2
+slug: orchy-evcc
+description: Orchy Energy charge controller!
+url: https://github.com/Orchy-Energy/orchy-evcc-fork
 arch: 
   - armhf
   - armv7
@@ -15,12 +15,12 @@ panel_icon: mdi:ev-station
 panel_admin: false
 boot: auto
 legacy: true
-stage: experimental
+stage: stable
 ingress: true
 ingress_port: 7070
 init: false
 watchdog: http://[HOST]:[PORT:7070]/
-image: evcc/evcc
+image: evcc/evcc # TODO: change to orchy/evcc
 options: 
   config_file: /config/evcc.yaml
   sqlite_file: /data/evcc.db
@@ -28,7 +28,6 @@ schema:
   config_file: str
   sqlite_file: str
 host_network: true
-homeassistant_api: true
 map: 
   - type: addon_config
     read_only: False

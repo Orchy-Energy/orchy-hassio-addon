@@ -1,8 +1,8 @@
 ---
 name: orchy-evcc
-version: latest
+version: 1.0.0
 slug: orchy-evcc
-description: Orchy Energy charge controller!
+description: Orchy Energy power controller!
 url: https://github.com/Orchy-Energy/orchy-evcc-private
 arch: 
   - armhf
@@ -20,7 +20,7 @@ ingress: true
 ingress_port: 7070
 init: false
 watchdog: http://[HOST]:[PORT:7070]/
-image: matiaseverest/orchy_evcc
+image: orchyenergy/evcc_custom
 options: 
   config_file: /config/evcc.yaml
   sqlite_file: /data/evcc.db

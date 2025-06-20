@@ -1,4 +1,4 @@
 # Orchy Energy Home Assistant Addons
 
 > [!NOTE]
->This repository holds Orchy's Home Assistant Addons.
+>This repository holds Orchy's Home Assistant Addon.

@@ -2,6 +2,6 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
-## [0.200.1] - 2025-02-16
+## [1.0.0] - 2025-06-20
 
-No notes
+Initial Orchy version tag.

@@ -17,9 +17,9 @@ boot: auto
 legacy: true
 stage: stable
 ingress: true
-ingress_port: 7070
+ingress_port: 0707
 init: false
-watchdog: http://[HOST]:[PORT:7070]/
+watchdog: http://[HOST]:[PORT:0707]/
 image: orchyenergy/evcc_custom
 options: 
   config_file: /config/evcc.yaml
@@ -34,7 +34,7 @@ map:
   - type: homeassistant_config
     read_only: False
 uart: true
-webui: http://[HOST]:[PORT:7070]/
+webui: http://[HOST]:[PORT:0707]/
 ports:
   4712/tcp: 4712
   5200/tcp: 5200

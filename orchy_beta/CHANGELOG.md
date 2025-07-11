@@ -1,3 +1,60 @@
 # Changelog
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
+
+## [beta-1.6.5] - 2025-07-11
+Cleaned up console logs. 
+GA configuration tweaks. 
+
+## [beta-1.6.4] - 2025-07-11
+Added Google Analytics to frontend.
+
+## [beta-1.6.3] - 2025-07-11
+Minor UI enhancements.
+
+## [beta-1.6.2] - 2025-07-10
+New navigation for mobile devices. 
+Replaced mobile icons with Orchy's branding. 
+Added empty state on devices page. 
+
+## [beta-1.6.1] - 2025-07-10
+Removed user settings from UI. 
+Defaulted theme to dark. 
+Removed telemetry and sponsorship options. 
+Removed experimental icons. 
+Replaced loadpoint configuration UI in home page. 
+Animation and fixes on energy flow diagram. 
+
+## [beta-1.6.0] - 2025-07-09
+Improvements in energy flow diagram. 
+Improvements in usage page. 
+
+## [beta-1.5.9] - 2025-07-09
+Adjusted home power calculation. 
+Adjusted billing page. 
+Fixed loading issue in billing and usage pages. 
+Fixed energy flow consumption unit to kW. 
+
+## [beta-1.4] - 2025-07-07
+New billing page.
+
+## [beta-1.3.0] - 2025-07-04
+New profile page. 
+Added user configuration. 
+Added fixed charges. 
+
+## [beta-1.2.0] - 2025-06-26
+Bugfixes for plans. 
+Updated icons. 
+Cleaned dropdown menu options. 
+Removed authentication requirement on new routes. 
+Added one digit to usage graph. 
+Partially removed target charge for integrated devices. 
+
+## [beta-1.1.0] - 2025-06-23
+Bugfixes for plans. 
+Bugfixes for repeating plans. 
+Enable changes to initial devices through UI. 
+
+## [beta-1.0.0] - 2025-06-20
+Initial Orchy version tag. 

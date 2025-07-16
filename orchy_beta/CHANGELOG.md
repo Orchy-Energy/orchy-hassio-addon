@@ -2,6 +2,12 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
+## [beta-1.6.6] - 2025-07-17
+Updated general config options. 
+Updated grid animation to show only when consumptions is over 50W. 
+Removed logs from navigation menu. 
+Adjusted wording for solar mode. 
+
 ## [beta-1.6.5] - 2025-07-11
 Cleaned up console logs. 
 GA configuration tweaks. 

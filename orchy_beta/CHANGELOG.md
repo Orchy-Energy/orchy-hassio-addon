@@ -2,7 +2,7 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
-## [beta-1.8.0] - 2025-07-24
+## [beta-1.8.1] - 2025-07-24
 TBD
 
 ## [beta-1.6.9] - 2025-07-21

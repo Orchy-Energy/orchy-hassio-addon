@@ -2,23 +2,31 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
-## [beta-1.9.1] - 2025-07-25
-TBD
+## [beta-1.10.0] - 2025-07-28
+Adjusted home power to include all devices. 
+Adjusted fixed charges table. 
+Fixed billing date picker bugs. 
+Fixed positioning of plans in loadpoint component. 
+Adjusted billing monthl wording and calculations. 
+Removed AEMO charges. 
 
-## [beta-1.8.2] - 2025-07-25
-TBD
+## [beta-1.9.1] - 2025-07-25
+Billing graph UI adjustments. 
+Hid notifications. 
+Added network peak demand start and end times. 
 
 ## [beta-1.8.1] - 2025-07-24
-TBD
+Battery status bug fixes. 
+Energy flow bug fixes and further UI enhancements. 
+Fixed charges bug for partial monthly data. 
+Implemented new designs for plans. 
 
-## [beta-1.6.9] - 2025-07-21
-TBD
-
-## [beta-1.6.8] - 2025-07-21
-TBD
-
-## [beta-1.6.7] - 2025-07-21
-TBD
+## [beta-1.7.0] - 2025-07-23
+First set of UI/UX changes from designer. 
+Added Logrocket for user tracking. 
+Removed min+solar from remaning UI components. 
+Added integrated devices to home power. 
+Removed sessions from navigation menu. 
 
 ## [beta-1.6.6] - 2025-07-17
 Updated general config options. 

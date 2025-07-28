@@ -2,6 +2,10 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
+## [1.10.1] - 2025-07-28
+Fixed cost breakdown text styling. 
+Fixed fixed charges modal issues. 
+
 ## [1.10.0] - 2025-07-28
 Adjusted home power to include all devices. 
 Adjusted fixed charges table. 

@@ -2,6 +2,10 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
+## [beta-2.0.0] - 2025-07-29
+Updated codebase with latest EVCC changes.
+Fixed minor bugs.
+
 ## [beta-1.10.1] - 2025-07-28
 Fixed cost breakdown text styling. 
 Fixed fixed charges modal issues. 

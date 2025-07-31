@@ -2,6 +2,9 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
+## [2.1.3] - 2025-07-31
+Adjusted grid height. 
+
 ## [2.1.2] - 2025-07-31
 Make devices page a grid. 
 

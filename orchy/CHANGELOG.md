@@ -2,6 +2,9 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
+## [2.1.2] - 2025-07-31
+Make devices page a grid. 
+
 ## [2.1.1] - 2025-07-31
 Adjusted home power when exporting. 
 Minor UI enhancements for consistency. 

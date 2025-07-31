@@ -2,6 +2,10 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
+## [2.1.1] - 2025-07-31
+Adjusted home power when exporting. 
+Minor UI enhancements for consistency. 
+
 ## [2.1.0] - 2025-07-30
 Updated codebase with missing EVCC changes. 
 Fixed minor bugs. 

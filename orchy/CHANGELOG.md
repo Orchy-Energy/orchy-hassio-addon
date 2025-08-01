@@ -2,7 +2,7 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
-## [2.1.4] - 2025-08-01
+## [2.1.5] - 2025-08-01
 Adjusted usage wording. 
 Fixed missing settings on web view. 
 

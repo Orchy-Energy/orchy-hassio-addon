@@ -2,6 +2,10 @@
 
 https://github.com/Orchy-Energy/orchy-evcc-private/releases
 
+## [beta-2.1.4] - 2025-08-01
+Adjusted usage wording. 
+Fixed missing settings on web view. 
+
 ## [beta-2.1.3] - 2025-07-31
 Adjusted grid height. 
 
